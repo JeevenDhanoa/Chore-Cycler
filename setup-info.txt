@@ -1,0 +1,45 @@
+5
+Roommate 1
+email1@email
+chore1
+Roommate 2
+email2@email
+chore2
+Roommate 3
+email3@email
+chore3
+Roommate 4
+email4@email
+chore4
+Roommate 5
+email5@email
+chore5
+
+3
+
+Cycle1
+3
+Roommate 1
+Roommate 2
+Roommate 3
+1
+chore1
+
+Cycle2
+2
+Roommate 4
+Roommate 5
+1
+chore4
+
+Main Cycle
+5
+Roommate 1
+Roommate 2
+Roommate 3
+Roommate 4
+Roommate 5
+3
+chore2
+chore3
+chore5
